@@ -1,0 +1,36 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.padre {
+    width: 40%;
+    height: 40%;
+    border: solid 5px blue;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.hija {
+    width: 15%;
+    height: 15%;
+    border: solid 5px red;
+}
+.madre {
+    width: 40%;
+    height: 40%;
+    border: solid 5px blue;
+    display: flex;
+    align-items: center;
+}
+.hijo {
+    width: 15%;
+    height: 15%;
+    border: solid 5px red;
+}

@@ -1,0 +1,38 @@
+html, body {
+    background: #4875B4;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+h1 {
+    color: #f4f4f4;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}
+.center{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login {
+    background: rgb(242, 242, 242);
+    hsl(0, 0%, 95%)
+    opacity: 0.5;
+    width: 400px;
+    text-align: center;
+}
+.agree {
+    background: rgba(52,119,183,1);
+    width: 75%;
+    height: 100%;
+    border-radius: 10px;
+
+}
+.fbk {
+    background: #3B5998;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 75%;
+}
+/*

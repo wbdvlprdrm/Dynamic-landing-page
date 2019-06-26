@@ -1,0 +1,75 @@
+body {
+    background-color: #101010;
+    color: #ffffff;
+    font-family: 'Roboto Condensed', sans-serif;
+  }
+  h1 {
+    color: #ffffff;
+  }
+.logo {
+    width: 150px;
+    height: 150px;
+    background-image: url(C:\Users\ana ramirez\Documents\nueva pagina\Netflix\img\580b57fcd9996e24bc43c529.png)
+}
+  .who {
+      margin-top: 100px;
+      margin-bottom: 50px;
+      display: flex;
+      justify-content: center;
+      align-content: center;
+  }
+  img {
+    object-fit: cover;
+  width: 150px;
+  height: 150px;
+  }
+  .boxes {
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+  }
+.alessandro {
+    border: solid 1px white;
+    width: 150px;
+    height: 150px;
+}
+ 
+}
+.ximena {
+  border: solid 1px white;
+  width: 150px;
+  height: 150px;
+  object-fit: fill;
+}
+.fernanda {
+  border: solid 1px white;
+  width: 150px;
+  height: 150px;
+}
+.josselyn {
+  border: solid 1px white;
+  width: 150px;
+  height: 150px;
+}
+.settings {
+font-size : 20px;
+	color : #ffffff;
+	padding : 1px 17px;
+    background-color : #030003;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+.id {
+    margin: 50px 100px 50px 100px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.users {
+    display: flex;
+      justify-content: space-around;
+      flex-direction: row;
+}

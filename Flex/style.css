@@ -1,0 +1,37 @@
+html {
+    border: solid 2px blue;
+    background: #ffffff;
+
+}
+.main {
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.nav {
+    background: black;
+    width: 100px;
+    height: 100px;
+    justify-content: space-between;
+
+
+}
+.side {
+    flex-direction: column;
+    background: gray;
+    width: 100px;
+    height: 100px;
+}
+.content {
+    flex-direction: row;
+    background: greenyellow;
+    width: 100px;
+    height: 100px;
+}
+.content2 {
+    flex-direction: column;
+    background: yellow;
+    width: 100px;
+    height: 100px;
+}

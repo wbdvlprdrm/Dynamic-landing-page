@@ -1,0 +1,32 @@
+body {
+    width: 100%;
+    width: 100%;
+}
+
+.padre {
+    height: 30rem;
+    width: 100rem;
+    display: flex;
+    border: solid 5px white;
+}
+.color1 {
+    background: blue;
+    padding-top: 40px;
+    border: solid 5px white;
+}
+
+.color2 {
+    background: pink;
+    padding-top: 40px;
+    border: solid 5px white;
+}
+.color3 {
+    background: purple;
+    padding-top: 40px;
+    border: solid 5px white;
+}
+.color4 {
+    background: yellow;
+    padding-top: 40px;
+    border: solid 5px white;
+}
